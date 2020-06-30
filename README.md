@@ -6,7 +6,7 @@
 | Paper Name | Published | Links |
 |-|:-:|:-:|
 | Very Deep Convolutional Networks for Large-Scale Image Recognition | 2014 | [[paper]](https://arxiv.org/pdf/1409.1556.pdf) [[code]](https://github.com/Jasonlee1995/vggnet) |
-| Deep Residual Learning for Image Recognition | 2015 | [[paper]](https://arxiv.org/pdf/1512.03385.pdf) |
+| Deep Residual Learning for Image Recognition | 2015 | [[paper]](https://arxiv.org/pdf/1512.03385.pdf) [[code]](https://github.com/Jasonlee1995/resnet) |
 
 
 ## 2. CNN Limitation
